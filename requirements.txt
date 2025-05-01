@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+pandas
+matplotlib
+requests
+scikit-learn
+tensorflow==2.13.0 
